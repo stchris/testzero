@@ -10,5 +10,8 @@
     "test": "node tests"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "testzero": "~0.1.0"
+  }
 }
