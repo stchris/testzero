@@ -1,5 +1,7 @@
 # testzero
 
+![npm](https://img.shields.io/npm/v/testzero.svg)
+
 test runner without dependencies
 
 ### Minimalistic API:
