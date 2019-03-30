@@ -33,6 +33,13 @@ Failed 4 test(s):
 	fails more often than not
 npm ERR! Test failed.  See above for more details.
 ```
+## Installation
+
+	$ npm i testzero
+
+or
+
+	$ yarn add testzero
 
 ## Usage
 
