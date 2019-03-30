@@ -1,0 +1,8 @@
+{
+  "name": "testzero",
+  "version": "0.1.0",
+  "description": "test runner without dependencies",
+  "main": "src/index.js",
+  "author": "Christian Ştefănescu",
+  "license": "MIT"
+}
