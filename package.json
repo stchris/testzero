@@ -4,5 +4,14 @@
   "description": "test runner without dependencies",
   "main": "src/index.js",
   "author": "Christian Ştefănescu",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/stchris/testzero.git"
+  },
+  "keywords": ["test", "runner", "testing"],
+  "bugs": {
+      "url": "https://github.com/stchris/testzero/issues"
+    },
+  "homepage": "https://github.com/stchris/testzero"
 }
